@@ -1,0 +1,76 @@
+# Configuration file
+
+####################
+# _global_
+####################
+
+_global_ {
+    ####################
+    # guests
+    ####################
+
+    guests {
+        S:parent=
+        S:playersInGroup <
+            _ENTRY_PLAYER_
+         >
+            S:prefix=§7[GUEST]
+            I:priority=0
+            S:suffix= 
+    }
+
+    ####################
+    # members
+    ####################
+
+    members {
+        S:parent=Guests
+        S:playersInGroup <
+         >
+            S:prefix= 
+            I:priority=0
+            S:suffix= 
+    }
+
+    ####################
+    # zoneadmins
+    ####################
+
+    zoneadmins {
+        S:parent=Members
+        S:playersInGroup <
+         >
+            S:prefix=§c[ZoneAdmin]
+            I:priority=0
+            S:suffix= 
+    }
+
+    ####################
+    # owners
+    ####################
+
+    owners {
+        S:parent=ZoneAdmins
+        S:playersInGroup <
+         >
+            S:prefix=§c[OWNER]
+            I:priority=999
+            S:suffix= 
+    }
+
+    ####################
+    # _ladders_
+    ####################
+
+    _ladders_ {
+        S:mainLadder <
+            Owners
+            ZoneAdmins
+            Members
+            Guests
+         >
+    }
+
+}
+
+

@@ -1,0 +1,26 @@
+# Configuration file
+
+####################
+# _global_
+####################
+
+_global_ {
+    ####################
+    # group
+    ####################
+
+    group {
+        ####################
+        # _zone_
+        #===================
+        # The group used to as a placeholder for zone flags and such.
+        ####################
+
+        _zone_ {
+        }
+
+    }
+
+}
+
+

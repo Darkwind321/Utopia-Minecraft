@@ -1,0 +1,31 @@
+worlds:
+-   title: world/Twilight Forest
+    height: 256
+    the_end: false
+    sealevel: 64
+    name: world_7
+    nether: false
+-   title: world/The End
+    height: 256
+    the_end: true
+    sealevel: 64
+    name: world_the_end
+    nether: false
+-   title: world/Nether
+    height: 256
+    the_end: false
+    sealevel: 64
+    name: world_nether
+    nether: true
+-   title: world/Overworld
+    height: 256
+    the_end: false
+    sealevel: 64
+    name: world
+    nether: false
+-   title: world/Promised Land
+    height: 256
+    the_end: false
+    sealevel: 64
+    name: world_20
+    nether: false

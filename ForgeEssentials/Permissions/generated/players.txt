@@ -1,0 +1,12 @@
+# Configuration file
+
+####################
+# _entry_player_
+####################
+
+_entry_player_ {
+    S:prefix=
+    S:suffix=
+}
+
+

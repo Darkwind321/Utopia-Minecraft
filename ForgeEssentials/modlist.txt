@@ -1,0 +1,74 @@
+# --- ModList ---
+# Generated: 30-5-2013 (Server time)
+# Change the location of this file in ./ForgeEssentials/main.cfg
+
+Minecraft Coder Pack;7.44;http://mcp.ocean-labs.de/
+Forge Mod Loader;5.2.17.716;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;7.8.0.716;http://MinecraftForge.net/forum/index.php/topic,5.0.html
+CoFH Core;1.5.2.2;http://thermalexpansion.wikispaces.com/
+CodeChicken Core;0.8.6.15;http://www.minecraftforum.net/topic/909223-
+Forge Essentials|PreLoader;SNAPSHOT.156;
+Not Enough Items;1.5.2.25;http://www.minecraftforum.net/topic/909223-
+PowerCrystals Core;1.1.6;http://www.minecraftforum.net/topic/1629898-
+CoFHNetwork;1.5.2.2;http://thermalexpansion.wikispaces.com
+CoFHWorld;1.5.2.2;http://thermalexpansion.wikispaces.com
+Forge Essentials;SNAPSHOT.156;https://github.com/ForgeEssentials/ForgeEssentialsMain
+Galacticraft Core;0.1.35;http://www.micdoodle8.com/
+Thermal Expansion;2.4.3.0;http://thermalexpansion.wikispaces.com
+IndustrialCraft 2;1.115.341-lf;http://www.industrial-craft.net
+Atomic Science;0.5.3;http://www.universalelectricity.com/atomicscience
+Biomes O' Plenty;0.5.5;www.minecraftforum.net/topic/1495041-
+ChickenChunks;1.3.2.11;http://www.minecraftforum.net/topic/909223
+ComputerCraft;1.53;http://www.minecraftforum.net/topic/892282-125-computercraft-14-rise-of-the-machines/
+ComputerCraft Turtles;1.53;http://www.minecraftforum.net/topic/892282-125-computercraft-14-rise-of-the-machines/
+Dynmap;1.7.1-21;
+EnderStorage;1.4.2.11;http://www.minecraftforum.net/topic/909223
+Factorization;0.7.37;http://minecraftforum.net/topic/1351802-
+Factorization Miscellaneous Nonsense;0.7.37;
+Factorization Dimensional Slices;0.7.37;
+Nuclear Control;1.5.1c;http://modstats.org/
+Modular Force Field System;3.0.2;http://www.universalelectricity.com/mffs/
+MachineMuse's Modular Powersuits;0.7.0-534;http://machinemuse.net/
+Andrew2448's Modular Powersuits Addon;0.2.3-144;http://www.machinemuse.net/
+BuildCraft;3.6.0;http://www.mod-buildcraft.com/
+BC Builders;3.6.0;http://www.mod-buildcraft.com/
+BC Energy;3.6.0;http://www.mod-buildcraft.com/
+BC Factory;3.6.0;http://www.mod-buildcraft.com/
+BC Transport;3.6.0;http://www.mod-buildcraft.com/
+MineFactory Reloaded;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+BC Silicon;3.6.0;http://www.mod-buildcraft.com/
+Applied Energistics;rv.10.n;http://ae-mod.info/
+MFR Compat: Applied Energistics;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Atum;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: BackTools;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Biomes O' Plenty;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Chococraft;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: ExtraBiomes;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Forestry (2);1.5.1R2.6.2;
+Forestry for Minecraft;2.2.6.3;http://forestry.sengir.net/wiki/index.php?n=Main.Downloads
+MFR Compat: Forestry;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: IC2;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Magical Crops;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+Mystcraft;0.10.4.00;http://binarymage.com
+MFR Compat: Mystcraft;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Pam's Mods;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: RP2;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: SoulShards;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Sufficient Biomes;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+Thaumcraft;3.0.5e;http://www.minecraftforum.net/topic/838839-100-thaumcraft/
+MFR Compat: Thaumcraft;1.5.1R2.6.2;
+MFR Compat: Thermal Expansion;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+The Twilight Forest;1.18.1;http://http://www.minecraftforum.net/topic/561673-
+MFR Compat: TwilightForest;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: Vanilla;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+MFR Compat: XyCraft;1.5.1R2.6.2;http://www.minecraftforum.net/topic/1629898-
+iChunUtil;1.0.1;http://www.ichun.us/
+PortalGun;1.5.2;http://www.minecraftforum.net/topic/199391-/
+Railcraft;7.2.1.0;http://railcraft.wikispaces.com/
+Power Converters;1.5.1R2.3.0;http://www.minecraftforum.net/topic/1629898-
+Compact Solar Arrays;4.1.6.37;http://forum.industrial-craft.net/index.php?page=Thread&threadID=4827
+GregTech-Addon;MC151;http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156
+Iron Chest;5.2.8.433;http://www.minecraftforum.net/topic/981855-
+Magic Bees;2.0.0 (build 22);http://bit.ly/XFDvLY
+MiscPeripherals;3.3;
+OmniTools;3.1.4.0;http://thermalexpansion.wikispaces.com
