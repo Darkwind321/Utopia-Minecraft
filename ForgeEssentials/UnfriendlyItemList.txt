@@ -1,5 +1,5 @@
 #// ------------ Item-ID-List ------------ \\#
-#// --------------- 2013-27-30 --------------- \\#
+#// --------------- 2013-31-28 --------------- \\#
 #// ------------------------------------------ \\#
 
 1        ==  vanilla.block.stone
@@ -406,6 +406,13 @@
 1282     ==  Mystcraft.block.myst.unstable
 1284     ==  Mystcraft.block.myst.inkmixer
 1285     ==  Mystcraft.block.myst.bookbinder
+1345     ==  EP2.block.stairsObsidian
+1346     ==  EP2.block.portalModifier
+1347     ==  EP2.block.dialDevice
+1348     ==  EP2.block.portal
+1349     ==  EP2.block.portal1
+1350     ==  EP2.block.dialDeviceBasic
+1351     ==  EP2.block.automaticDialler
 1378     ==  Forestry.block.candle
 1379     ==  Forestry.block.stump
 1380     ==  Forestry.block.for.planks
@@ -768,6 +775,10 @@
 5280     ==  Forestry.item.gearTin
 5281     ==  Forestry.item.hardenedMachine
 5282     ==  Forestry.item.iodineCapsule
+6256     ==  EP2.item.portalModifierUpgrade
+6257     ==  EP2.item.networkCard
+6258     ==  EP2.item.flintAndSteel
+6259     ==  EP2.item.miscItems
 7493     ==  EnderStorage.item.enderpouch
 7756     ==  Railcraft.item.railcraft.dust
 7757     ==  Railcraft.item.railcraft.fuel.coke

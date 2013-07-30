@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 30-5-2013 (Server time)
+# Generated: 28-6-2013 (Server time)
 # Change the location of this file in ./ForgeEssentials/main.cfg
 
 Minecraft Coder Pack;7.44;http://mcp.ocean-labs.de/
@@ -23,6 +23,9 @@ ComputerCraft;1.53;http://www.minecraftforum.net/topic/892282-125-computercraft-
 ComputerCraft Turtles;1.53;http://www.minecraftforum.net/topic/892282-125-computercraft-14-rise-of-the-machines/
 Dynmap;1.7.1-21;
 EnderStorage;1.4.2.11;http://www.minecraftforum.net/topic/909223
+EnhancedCore;1.1;http://www.minecraftforum.net/topic/1301217-/
+EnhancedPortals 2;1.0.6 (Build: 24);http://www.minecraftforum.net/topic/1301217-/
+EP2 ComputerCraft;1.0;http://www.minecraftforum.net/topic/1301217-/
 Factorization;0.7.37;http://minecraftforum.net/topic/1351802-
 Factorization Miscellaneous Nonsense;0.7.37;
 Factorization Dimensional Slices;0.7.37;
